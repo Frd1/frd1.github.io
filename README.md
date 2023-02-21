@@ -1,2 +1,2 @@
-# frd1.github.io
+# qr code challenge
 First challenge on Frontend Mentor - QrCode page
